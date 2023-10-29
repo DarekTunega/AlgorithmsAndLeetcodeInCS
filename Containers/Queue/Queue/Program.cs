@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using MyQueue;
+Queue queue = new Queue();
 
-Console.WriteLine("Hello, World!");
